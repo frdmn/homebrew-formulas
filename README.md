@@ -10,7 +10,7 @@ First, add this tap to your Brew. This will to clone Pivotal tap repository and 
 
 Now you will be able to work on those formulae as if there were in canonical Homebrew repository:
 
-    brew install odig
+    brew install dev-search
 
 ## Contributing
 
