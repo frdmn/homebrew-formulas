@@ -22,7 +22,7 @@ Now you will be able to work on those formulae as if there were in canonical Hom
 
 ## Version
 
-1.0.0
+1.0.1
 
 ## License
 
