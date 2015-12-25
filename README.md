@@ -1,21 +1,16 @@
-# Homebrew formulas
+# frdmn's Homebrew formulas
 
-[description]
-
-## Installation
-
-1. Make sure you've installed all requirements
-2. Clone this repository:
-  `git clone https://github.com/[GitHubUsername]/Homebrew formulas`
-3. Install the project using `make`:
-  `make install`
+This a [brew](https://github.com/mxcl/homebrew) [tap](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme) repository containing a collection of "formulae" for Pivotal products. 
 
 ## Usage
 
-Here's a short explanation how to use `Homebrew formulas`:
+First, add this tap to your Brew. This will to clone Pivotal tap repository and symlink all its formulae.
 
-* Use it
-* Profit
+    brew tap frdmn/homebrew-formulas
+
+Now you will be able to work on those formulae as if there were in canonical Homebrew repository:
+
+    brew install odig
 
 ## Contributing
 
@@ -24,12 +19,6 @@ Here's a short explanation how to use `Homebrew formulas`:
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin feature/my-new-feature`
 5. Submit a pull request
-
-## Requirements / Dependencies
-
-* This
-* That
-* As well as this
 
 ## Version
 
