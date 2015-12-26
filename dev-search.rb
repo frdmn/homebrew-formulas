@@ -1,9 +1,9 @@
 class DevSearch < Formula
   desc "Dead simple project search tool written in Bash with fuzzy support"
   homepage "https://github.com/frdmn/dev-search"
-  url "https://github.com/frdmn/dev-search/archive/1.2.1.tar.gz"
-  version "1.2.1"
-  sha256 "fc45f3f3433020408958392218cc0e4c83aade4e1b65a7c7e2fdc819833e77ac"
+  url "https://github.com/frdmn/dev-search/archive/1.2.2.tar.gz"
+  version "1.2.2"
+  sha256 "5f7b28f3ba4fc9a6db854b9549e65d0bae93e9c0ef059fc91b157ac69b238b26"
 
   def install
     ENV.deparallelize
