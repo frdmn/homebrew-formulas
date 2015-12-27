@@ -7,7 +7,7 @@ class Girahelper < Formula
 
   depends_on "terminal-notifier"
 
-   def install
+  def install
     ENV.deparallelize
     prefix.install %w{gira.conf lib}
     bin.install "gira"
