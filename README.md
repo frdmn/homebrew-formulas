@@ -1,6 +1,6 @@
 # frdmn's Homebrew formulas
 
-This a [brew](https://github.com/mxcl/homebrew) [tap](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme) repository containing a collection of "formulae" for Pivotal products. 
+This a [brew](https://github.com/mxcl/homebrew) [tap](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme) repository containing a collection of "formulae" for most of my daily use projects. 
 
 ## Usage
 
@@ -10,7 +10,37 @@ First, add this tap to your Brew. This will to clone Pivotal tap repository and 
 
 Now you will be able to work on those formulae as if there were in canonical Homebrew repository:
 
+## Formulae
+
+#### ddig ([:octocat:](https://github.com/frdmn/ddig))
+
+Simple bash script to query the actual responsible DNS server of a specific domain/hostname.
+
+    brew install ddig
+
+#### dev-search ([:octocat:](https://github.com/frdmn/dev-search))
+
+Dead simple project search tool written in Bash with fuzzy support.
+
     brew install dev-search
+
+#### girahelper ([:octocat:](https://github.com/frdmn/girahelper))
+
+Bash script to control a Gira home server.
+
+    brew install girahelper
+
+#### odig ([:octocat:](https://github.com/frdmn/odig))
+
+    brew install odig
+
+A Bash script to lookup a hostname and and the PTR record of the given IP address at a stroke.
+
+#### psshrun ([:octocat:](https://github.com/frdmn/psshrun))
+
+Host file group files for pssh.
+
+    brew install psshrun
 
 ## Contributing
 
