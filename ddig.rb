@@ -1,9 +1,9 @@
 class Ddig < Formula
   desc "Simple bash script to query the actual responsible DNS server of a specific domain/hostname"
   homepage "https://github.com/frdmn/ddig"
-  url "https://github.com/frdmn/ddig/archive/1.1.0.tar.gz"
-  version "1.1.0"
-  sha256 "c6380cd4a2bdd2e010d47c138648f91276fba69c9ad346f883fbe37dbf381750"
+  url "https://github.com/frdmn/ddig/archive/1.2.0.tar.gz"
+  version "1.2.0"
+  sha256 "2a9b08f0c49cf0ae52a61149f997802231984049aeacb6bef871b0a738a2a980"
 
   def install
     ENV.deparallelize
