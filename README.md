@@ -42,6 +42,12 @@ Host file group files for pssh.
 
     brew install psshrun
 
+#### (up)ing ([:octocat:](https://github.com/frdmn/uping))
+
+Ping tool that stops as soon as the host comes back online
+
+    brew install uping
+
 ## Contributing
 
 1. Fork it
