@@ -12,6 +12,12 @@ Now you will be able to work on those formulae as if there were in canonical Hom
 
 ## Formulae
 
+#### bork-dev ([:octocat:](https://github.com/mattly/bork))
+
+Latest (master) version of @[mattly](https://github.com/mattly/bork)'s bork DSL. Make sure to pass the `--HEAD` switch since this is a head-only formula.
+
+    brew install --HEAD bork-dev
+
 #### ddig ([:octocat:](https://github.com/frdmn/ddig))
 
 Simple bash script to query the actual responsible DNS server of a specific domain/hostname.
