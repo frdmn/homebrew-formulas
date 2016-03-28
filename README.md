@@ -60,7 +60,6 @@ Latest (master) version of @[mattly](https://github.com/mattly/bork)'s bork DSL.
 
     brew install --HEAD bork-dev
 
-
 ## Contributing
 
 1. Fork it
