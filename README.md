@@ -54,6 +54,12 @@ Ping tool that stops as soon as the host comes back online
 
     brew install uping
 
+#### @rwoeber/homebrew-update-notifier ([:octocat:](https://github.com/rwoeber/homebrew-update-notifier))
+
+Announce outdated Homebrew formulas in the OS X Notification Center
+
+    brew install homebrew-update-notifier
+
 ## Contributing
 
 1. Fork it
