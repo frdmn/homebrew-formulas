@@ -6,7 +6,7 @@ This a [brew](https://github.com/mxcl/homebrew) [tap](https://github.com/Homebre
 
 First, add this tap to your Brew. This will to clone Pivotal tap repository and symlink all its formulae.
 
-    brew tap frdmn/homebrew-formulas
+    brew tap frdmn/formulas
 
 Now you will be able to work on those formulae as if there were in canonical Homebrew repository:
 
