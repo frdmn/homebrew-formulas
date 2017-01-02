@@ -1,9 +1,9 @@
 class Girahelper < Formula
-  desc "Bash script to control a Gira home server"
+  desc "CLI script to control a Gira home server"
   homepage "https://github.com/frdmn/GiraHelper"
-  url "https://github.com/frdmn/GiraHelper/archive/1.0.2.tar.gz"
-  version "1.0.2"
-  sha256 "fdef756b2c7eab0f19620210b2cfd1b1494016c0afa687b5db5de5ab044d39c8"
+  url "https://github.com/frdmn/GiraHelper/archive/1.0.3.tar.gz"
+  version "1.0.3"
+  sha256 "20fd6eeb68b363561dd1913d87be0809947037b9a3c26de33115add2367b1a4f"
 
   depends_on "terminal-notifier"
 
@@ -16,7 +16,7 @@ class Girahelper < Formula
   def caveats; <<-EOS.undent
     Make sure to copy the default configuration file into your home folder:
 
-    $ cp /usr/local/opt/girahelper/gira.conf ~/.gira.conf
+    $ cp /usr/local/opt/girahelper/gira.json ~/.gira.json
     EOS
   end
 
