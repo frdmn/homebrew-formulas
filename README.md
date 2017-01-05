@@ -24,11 +24,11 @@ Dead simple project search tool written in Bash with fuzzy support.
 
     brew install dev-search
 
-#### girahelper ([:octocat:](https://github.com/frdmn/girahelper))
+#### giracli ([:octocat:](https://github.com/frdmn/giracli)) [Moved to [NPM](http://npmjs.com/package/giracli)]
 
 Bash script to control a Gira home server.
 
-    brew install girahelper
+    npm install -g giracli
 
 #### odig ([:octocat:](https://github.com/frdmn/odig))
 
