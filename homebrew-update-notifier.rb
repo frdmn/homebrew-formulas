@@ -1,8 +1,8 @@
 class HomebrewUpdateNotifier < Formula
   homepage "https://github.com/rwoeber/homebrew-update-notifier"
-  url "https://github.com/rwoeber/homebrew-update-notifier/archive/1.0.0.tar.gz"
-  version "1.0.0"
-  sha256 "dba59b1326a0106fc19cd742e188e14cc1d63cb75c973a97fe8f0dae5ee11674"
+  url "https://github.com/rwoeber/homebrew-update-notifier/archive/1.0.2.tar.gz"
+  version "1.0.2"
+  sha256 "e4620877dfa24ed02f8fda9afe51c22a9d2e4be59e4e0e5dddeba85f78c5f7f0"
 
   depends_on "terminal-notifier"
 
