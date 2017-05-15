@@ -1,7 +1,7 @@
 class BorkDev < Formula
   desc "Bash DSL for config management"
-  homepage "https://github.com/mattly/bork"
-  head "https://github.com/mattly/bork.git"
+  homepage "https://github.com/frdmn/bork"
+  head "https://github.com/frdmn/bork.git"
 
   bottle :unneeded
 
