@@ -48,6 +48,12 @@ Ping tool that stops as soon as the host comes back online
 
     brew install uping
 
+#### homebrew-sick-doctor-warning ([:octocat:](https://github.com/frdmn/homebrew-sick-doctor-warning))
+
+A little script to announce Homebrew doctor anomalies.
+
+    brew install homebrew-update-notifier
+
 #### @rwoeber/homebrew-update-notifier ([:octocat:](https://github.com/rwoeber/homebrew-update-notifier))
 
 Announce outdated Homebrew formulas in the OS X Notification Center
