@@ -52,7 +52,7 @@ Ping tool that stops as soon as the host comes back online.
 
 A little script to announce Homebrew doctor anomalies.
 
-    brew install homebrew-update-notifier
+    brew install homebrew-sick-doctor-warning
 
 #### @rwoeber/homebrew-update-notifier ([:octocat:](https://github.com/rwoeber/homebrew-update-notifier))
 
