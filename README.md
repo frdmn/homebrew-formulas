@@ -44,7 +44,7 @@ Host file group files for pssh.
 
 #### (up)ing ([:octocat:](https://github.com/frdmn/uping))
 
-Ping tool that stops as soon as the host comes back online
+Ping tool that stops as soon as the host comes back online.
 
     brew install uping
 
@@ -56,7 +56,7 @@ A little script to announce Homebrew doctor anomalies.
 
 #### @rwoeber/homebrew-update-notifier ([:octocat:](https://github.com/rwoeber/homebrew-update-notifier))
 
-Announce outdated Homebrew formulas in the OS X Notification Center
+Announce outdated Homebrew formulas in the OS X Notification Center.
 
     brew install homebrew-update-notifier
 
