@@ -60,12 +60,6 @@ Announce outdated Homebrew formulas in the OS X Notification Center.
 
     brew install homebrew-update-notifier
 
-#### @mattly/bork ([:octocat:](https://github.com/mattly/bork))
-
-Latest (master) version of @[mattly](https://github.com/mattly/bork)'s bork DSL. Make sure to pass the `--HEAD` switch since this is a head-only formula.
-
-    brew install --HEAD bork-dev
-
 ## Contributing
 
 1. Fork it
