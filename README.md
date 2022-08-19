@@ -1,6 +1,6 @@
 # frdmn's Homebrew formulas
 
-This a [brew](https://github.com/mxcl/homebrew) [tap](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme) repository containing a collection of "formulae" for most of my daily use projects. 
+This a [brew](https://github.com/mxcl/homebrew) [tap](https://github.com/Homebrew/homebrew/tree/master/share/doc/homebrew#readme) repository containing a collection of "formulae" for most of my daily use projects.
 
 ## Usage
 
@@ -59,6 +59,12 @@ A little script to announce Homebrew doctor anomalies.
 Announce outdated Homebrew formulas in the OS X Notification Center.
 
     brew install homebrew-update-notifier
+
+#### @gitbits/git-shift ([:octocat:](https://github.com/gitbits/git-shift))
+
+Shift timestamps of git commits
+
+    brew install git-shift
 
 ## Contributing
 
