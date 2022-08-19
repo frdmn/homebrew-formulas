@@ -60,7 +60,7 @@ Announce outdated Homebrew formulas in the OS X Notification Center.
 
     brew install homebrew-update-notifier
 
-#### @gitbits/git-shift ([:octocat:](https://github.com/gitbits/git-shift))
+#### @gitbits/git-shift (fork) ([:octocat:](https://github.com/frdmn/git-shift))
 
 Shift timestamps of git commits
 
